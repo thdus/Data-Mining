@@ -36,24 +36,15 @@
 
 ### 시각화(EDA) - 서울시 Feature 별
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://github.com/thdus/Data-Mining/assets/168116920/165280e9-f649-4f01-a46d-4e29447625de" alt="노인인구 비율" width="300"/>
-    <p><b>노인인구 비율</b></p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://github.com/thdus/Data-Mining/assets/168116920/a61339da-a868-413e-95a3-8b37b4123a80" alt="기초수급자 비율" width="300"/>
-    <p><b>기초수급자 비율</b></p>
-  </div>
-</div>
+
 
 <p align="center">
-  <img src="https://github.com/thdus/Data-Mining/assets/168116920/165280e9-f649-4f01-a46d-4e29447625de" alt="노인인구 비율" width="300"/>
-  <img src="https://github.com/thdus/Data-Mining/assets/168116920/a61339da-a868-413e-95a3-8b37b4123a80" alt="기초수급자 비율" width="300"/>
+  <img src="https://github.com/thdus/Data-Mining/assets/168116920/165280e9-f649-4f01-a46d-4e29447625de" alt="노인인구 비율" width="600"/>
+  <img src="https://github.com/thdus/Data-Mining/assets/168116920/a61339da-a868-413e-95a3-8b37b4123a80" alt="기초수급자 비율" width="600"/>
 </p>
 
 <p align="center">
-  <b>노인인구 비율</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>기초수급자 비율</b>
+  <b>노인인구 비율</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>기초수급자 비율</b>
 </p>
 
 ![노인인구 비율](https://github.com/thdus/Data-Mining/assets/168116920/165280e9-f649-4f01-a46d-4e29447625de) |![기초수급자 비율](https://github.com/thdus/Data-Mining/assets/168116920/a61339da-a868-413e-95a3-8b37b4123a80)
