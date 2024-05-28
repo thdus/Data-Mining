@@ -36,9 +36,11 @@
 
 ### 시각화(EDA) - 서울시 Feature 별
 
-![노인인구 비율](https://github.com/thdus/Data-Mining/assets/168116920/165280e9-f649-4f01-a46d-4e29447625de) | ![기초수급자 비율](https://github.com/thdus/Data-Mining/assets/168116920/a61339da-a868-413e-95a3-8b37b4123a80)
+![노인인구 비율](https://github.com/thdus/Data-Mining/assets/168116920/165280e9-f649-4f01-a46d-4e29447625de) |![기초수급자 비율](https://github.com/thdus/Data-Mining/assets/168116920/a61339da-a868-413e-95a3-8b37b4123a80)
+--- | --- |
 
-![장애인 비율](https://github.com/thdus/Data-Mining/assets/168116920/9c1905c4-85f1-4666-8781-ff475f4344f4) | ![독거노인 비율](https://github.com/thdus/Data-Mining/assets/168116920/4edca487-331f-4923-b75a-12e1c1270422)
+![장애인 비율](https://github.com/thdus/Data-Mining/assets/168116920/9c1905c4-85f1-4666-8781-ff475f4344f4) |![독거노인 비율](https://github.com/thdus/Data-Mining/assets/168116920/4edca487-331f-4923-b75a-12e1c1270422)
+--- | --- |
 
 ---
 
@@ -56,7 +58,8 @@
 - 서로 상관성이 높은 여러 변수들의 선형조합으로 만든 새로운 변수들로 요약 및 축약하는 기법.
 - 데이터의 분산(variance)를 최대한 보존하면서 직교하는 새 기저(축)을 찾아 고차원 공간의 표봄들을 선형 연관성이 없는 저차원 공간으로 변환해 준다.
 
-![PCA1](https://github.com/thdus/Data-Mining/assets/168116920/a8a4f976-cc23-4bd0-8376-2c95608fb774) | ![PCA2](https://github.com/thdus/Data-Mining/assets/168116920/c58441a8-a7d0-4ec9-bfa2-4a184b54cd27)
+![PCA1](https://github.com/thdus/Data-Mining/assets/168116920/a8a4f976-cc23-4bd0-8376-2c95608fb774) |![PCA2](https://github.com/thdus/Data-Mining/assets/168116920/c58441a8-a7d0-4ec9-bfa2-4a184b54cd27)
+--- | --- |
 
 ##### Silhouette 계수
 - 각각의 데이터가 해당 데이터와 같은 군집 내의 데이터와는 얼마나 가깝게 군집화가 되었고, 다른 군집에 있는 데이터와는 얼마나 멀리 분포되어 있는지를 나타내는 지표
