@@ -23,15 +23,15 @@
 5. **서울시 국민기초생활 수급자 동별 현황**  
     *https://data.seoul.go.kr/dataList/OA-22227/F/1/datasetView.do*
 
-*Data Source: [서울 열린데이터광장](https://data.seoul.go.kr/)*
+&nbsp;&nbsp;&nbsp;&nbsp;*Data Source: [서울 열린데이터광장](https://data.seoul.go.kr/)*
 
 6. **서울시 행정동 경위도 좌표**
 
-*Data Source: [홍시의 싱크탱크](https://kimhongsi.tistory.com/entry/%EA%B3%B5%EA%B0%84-%EC%9E%90%EB%A3%8C-%EC%84%9C%EC%9A%B8%EC%8B%9C-%ED%96%89%EC%A0%95%EB%8F%99-%EA%B2%BD%EC%9C%84%EB%8F%84-%EC%A2%8C%ED%91%9C)*
+&nbsp;&nbsp;&nbsp;&nbsp;*Data Source: [홍시의 싱크탱크](https://kimhongsi.tistory.com/entry/%EA%B3%B5%EA%B0%84-%EC%9E%90%EB%A3%8C-%EC%84%9C%EC%9A%B8%EC%8B%9C-%ED%96%89%EC%A0%95%EB%8F%99-%EA%B2%BD%EC%9C%84%EB%8F%84-%EC%A2%8C%ED%91%9C)*
 
 7. **geo.json**
 
-*Data Source: [vuski's github repo](https://github.com/vuski/admdongkor/blob/master/ver20221001/HangJeongDong_ver20221001.geojson)*
+&nbsp;&nbsp;&nbsp;&nbsp;*Data Source: [vuski's github repo](https://github.com/vuski/admdongkor/blob/master/ver20221001/HangJeongDong_ver20221001.geojson)*
 
 ### 데이터 전처리
 1. 결측치 제거 및 필요하지 않는 Feature 제거
