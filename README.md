@@ -39,8 +39,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/thdus/Data-Mining/assets/168116920/165280e9-f649-4f01-a46d-4e29447625de" alt="노인인구 비율" width="500"/>
-  <img src="https://github.com/thdus/Data-Mining/assets/168116920/a61339da-a868-413e-95a3-8b37b4123a80" alt="기초수급자 비율" width="500"/>
+  <img src="https://github.com/thdus/Data-Mining/assets/168116920/165280e9-f649-4f01-a46d-4e29447625de" alt="노인인구 비율" width="400"/>
+  <img src="https://github.com/thdus/Data-Mining/assets/168116920/a61339da-a868-413e-95a3-8b37b4123a80" alt="기초수급자 비율" width="400"/>
 </p>
 
 <p align="center">
@@ -48,8 +48,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/thdus/Data-Mining/assets/168116920/9c1905c4-85f1-4666-8781-ff475f4344f4" alt="장애인 비율" width="500"/>
-  <img src="https://github.com/thdus/Data-Mining/assets/168116920/4edca487-331f-4923-b75a-12e1c1270422" alt="독거노인 비율" width="500"/>
+  <img src="https://github.com/thdus/Data-Mining/assets/168116920/9c1905c4-85f1-4666-8781-ff475f4344f4" alt="장애인 비율" width="400"/>
+  <img src="https://github.com/thdus/Data-Mining/assets/168116920/4edca487-331f-4923-b75a-12e1c1270422" alt="독거노인 비율" width="400"/>
 </p>
 
 <p align="center">
@@ -79,5 +79,5 @@
 - 각각의 데이터가 해당 데이터와 같은 군집 내의 데이터와는 얼마나 가깝게 군집화가 되었고, 다른 군집에 있는 데이터와는 얼마나 멀리 분포되어 있는지를 나타내는 지표
 - -1에서 1 사이의 값을 가지며 1에 가까울 수록 근처 군집과 멀리 떨어져 있음을, 0에 가까울수록 근처 군집과 가까움을 의미
 
-![Silhoutte](https://github.com/thdus/Data-Mining/assets/168116920/7f16eb98-906f-4b6d-aeed-fa47d3290f46)
+![Silhoutte](https://github.com/thdus/Data-Mining/assets/168116920/d73d7925-0359-4bbc-b159-ec72c2721fe6)
 
