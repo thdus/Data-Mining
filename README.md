@@ -36,7 +36,7 @@
 
 ### 시각화(EDA) - 서울시 Feature 별
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/thdus/Data-Mining/assets/168116920/165280e9-f649-4f01-a46d-4e29447625de" alt="노인인구 비율" width="300"/>
     <p><b>노인인구 비율</b></p>
