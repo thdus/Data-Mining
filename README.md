@@ -81,3 +81,10 @@
 
 ![Silhoutte](https://github.com/thdus/Data-Mining/assets/168116920/d73d7925-0359-4bbc-b159-ec72c2721fe6)
 
+##### Elbow Method
+- inertia가 변하는 모양을 그래프로 나타내는 지표
+- Clustering을 할 때의 군집도의 수를 정하는데 도움을 주는 방법
+- 그래프의 모양이 Elbow(팔꿈치)처럼 생겼다고 하여 명칭
+
+
+
