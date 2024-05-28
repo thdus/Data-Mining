@@ -86,6 +86,5 @@
 - Clustering을 할 때의 군집도의 수를 정하는데 도움을 주는 방법
 - 그래프의 모양이 Elbow(팔꿈치)처럼 생겼다고 하여 명칭
 
-![elbow](https://github.com/thdus/Data-Mining/assets/168116920/14d80ec8-2363-421b-8713-fb9cc9427f11)
-
+![elbow](https://github.com/thdus/Data-Mining/assets/168116920/c2bbf6ef-d6c1-463e-b7a4-7f20691c507f)
 
