@@ -98,6 +98,8 @@
 
 ![elbow](https://github.com/thdus/Data-Mining/assets/168116920/c2bbf6ef-d6c1-463e-b7a4-7f20691c507f)
 
+---
+
 ## Conclusion
 
 ### Cluster 2
